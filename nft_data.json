@@ -1,0 +1,34 @@
+{
+  "name": "Test NFT",
+  "symbol": "TNFT",
+  "description": "Nft for testing",
+  "seller_fee_basis_points": 0,
+  "image": "https://i.pinimg.com/originals/ca/88/00/ca8800be0d31c755b41d9427524e5c84.png",
+  "external_url": "https://test.com",
+  "attributes": [
+    {
+      "trait_type": "web",
+      "value": "yes"
+    },
+    {
+      "trait_type": "mobile",
+      "value": "yes"
+    },
+    {
+      "trait_type": "extension",
+      "value": "yes"
+    }
+  ],
+  "collection": {
+    "name": "Test nft",
+    "family": "TNfT"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://i.pinimg.com/originals/ca/88/00/ca8800be0d31c755b41d9427524e5c84.png",
+        "type": "image/png"
+    ],
+    "category": "image"
+  }
+}
