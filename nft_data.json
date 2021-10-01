@@ -3,7 +3,7 @@
   "symbol": "TNFT",
   "description": "Nft for testing",
   "seller_fee_basis_points": 0,
-  "image": "https://i.pinimg.com/originals/ca/88/00/ca8800be0d31c755b41d9427524e5c84.png",
+  "image": "https://raw.githubusercontent.com/danilagarev/json_test/master/coin_test.png",
   "external_url": "https://test.com",
   "attributes": [
     {
@@ -26,7 +26,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://i.pinimg.com/originals/ca/88/00/ca8800be0d31c755b41d9427524e5c84.png",
+        "uri": "https://raw.githubusercontent.com/danilagarev/json_test/master/coin_test.png",
         "type": "image/png"
     ],
     "category": "image"
