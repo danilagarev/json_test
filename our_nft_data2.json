@@ -1,0 +1,23 @@
+{
+  "name": "Our Version NFT 2",
+  "symbol": "ONFT2",
+  "description": "Our version NFT for testing 2",
+  "seller_fee_basis_points": 0,
+  "image": "https://raw.githubusercontent.com/danilagarev/json_test/master/our_nft.png",
+  "external_url": "https://test.com",
+  "attributes": [
+    {
+      "trait_type": "version",
+      "value": "OUR2"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/danilagarev/json_test/master/our_nft.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
