@@ -1,0 +1,23 @@
+{
+  "name": "Master NFT",
+  "symbol": "MNFT",
+  "description": "Master NFT for testing",
+  "seller_fee_basis_points": 0,
+  "image": "https://raw.githubusercontent.com/danilagarev/json_test/master/master_nft.png",
+  "external_url": "https://test.com",
+  "attributes": [
+    {
+      "trait_type": "version",
+      "value": "MASTER"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/danilagarev/json_test/master/master_nft.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
